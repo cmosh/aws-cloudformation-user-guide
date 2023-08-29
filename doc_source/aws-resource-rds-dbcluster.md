@@ -213,7 +213,7 @@ Constraints:
 + Must be a value from 1 to 35
 Valid for: Aurora DB clusters and Multi\-AZ DB clusters  
 *Required*: No  
-*Type*: Integer  
+*Type*: Integer  ddddd
 *Update requires*: [No interruption](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-update-behaviors.html#update-no-interrupt)
 
 `CopyTagsToSnapshot`  <a name="cfn-rds-dbcluster-copytagstosnapshot"></a>
